@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in mobile app
  
-- 🌱 I’m currently learning Flutter and C# 
+- 🌱 I’m currently learning Flutter 
  
 - 💞️ I’m looking to collaborate on create projects
 
@@ -23,7 +23,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ftkii&show_icons=true&locale=en" alt="ftkii" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftkii&show_icons=true&locale=en&layout=compact" alt="ftkii" /></p>
 
