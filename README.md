@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ftkcsi" target="blank"><img src="https://img.shields.io/twitter/follow/ftkcsi?logo=twitter&style=for-the-badge" alt="ftkcsi" /></a> </p>
 
-- 👀 I’m interested in Web
+- I’m interested in Web and ui/ux
 
 - 📫 How to reach me Fatimahiturki@gmail.com
 
