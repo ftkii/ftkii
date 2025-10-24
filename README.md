@@ -5,7 +5,7 @@
 
 - 👩🏻‍💻 I’m interested in Web and ui/ux
 
--✉️ How to reach me Fatimahiturki@gmail.com
+- ✉️ How to reach me Fatimahiturki@gmail.com
 
 
 
